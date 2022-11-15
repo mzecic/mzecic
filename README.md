@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Full-stack software engineer. I am passionate about building apps and creative tech solutions to enrich people’s lives.
+
 <!--
 **mzecic/mzecic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,4 @@
 - ⚡ Fun fact: ...
 -->
 
-I'm a Full-stack software engineer. I am passionate about building apps and creative tech solutions to enrich people’s lives.
+
