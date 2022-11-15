@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 I'm a Full-stack software engineer. I am passionate about building apps and creative tech solutions to enrich people’s lives.
 
