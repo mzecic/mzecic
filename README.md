@@ -1,4 +1,4 @@
-I like technology, building things, and playing piano.
+I love software because of the profound impact it has on our daily lives. I love creating tools, apps, and systems that solve real-world problems, simplify complex tasks, and make people's lives easier. Whether it's building a seamless user experience, optimizing backend logic, or experimenting with new technologies, I enjoy every part of the process—from idea to execution. I'm constantly learning, improving, and pushing myself to write clean, efficient, and meaningful code.
 
 <!--
 **mzecic/mzecic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
